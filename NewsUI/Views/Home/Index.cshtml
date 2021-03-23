@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    string apiLink = ViewBag.NewsService;
+}
+
+<div class="text-left">
+    <h1 class="display-4">News</h1>
+
+    <div ng-app="consumeRestApp">
+        <div ng-controller="newsCtrl">
+            <div ng-repeat="news in newsList">
+                
+                <h1><a href='{{ news.url }},{{ news.id }}'>{{ news.title }}</a> </h1>
+                <p>Kategori : {{ news.mainCategory.title }}</p>
+                <img src="{{ news.mainArtUrl }}" alt="{{ news.title }}" style="max-width:300px; max-height:300px; overflow:hidden;" />
+                <p>{{ news.spot }}</p>
+                <p>
+                    Etiket :
+                    <span ng-repeat="keyword in news.newsKeywords">
+                        {{ keyword.keyword }}
+                    </span>
+                        
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        var app = angular.module("consumeRestApp", []);
+
+        (function (app) {
+            "use strict";
+            app.controller("newsCtrl", function ($scope, $http) {
+                $http.get('@apiLink').then(function (prd) {
+                    $scope.newsList = prd.data;
+                });
+            });
+        })(app);
+    </script>
+</div>

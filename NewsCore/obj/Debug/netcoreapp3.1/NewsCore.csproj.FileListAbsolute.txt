@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\bin\Debug\netcoreapp3.1\NewsCore.deps.json
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\bin\Debug\netcoreapp3.1\NewsCore.dll
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\bin\Debug\netcoreapp3.1\NewsCore.pdb
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\obj\Debug\netcoreapp3.1\NewsCore.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\obj\Debug\netcoreapp3.1\NewsCore.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\obj\Debug\netcoreapp3.1\NewsCore.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\obj\Debug\netcoreapp3.1\NewsCore.dll
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\obj\Debug\netcoreapp3.1\NewsCore.pdb
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsCore\obj\Debug\netcoreapp3.1\NewsCore.csproj.CoreCompileInputs.cache

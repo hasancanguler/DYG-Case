@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\bin\Debug\netcoreapp3.1\NewsDAL.deps.json
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\bin\Debug\netcoreapp3.1\NewsDAL.dll
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\bin\Debug\netcoreapp3.1\NewsDAL.pdb
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\obj\Debug\netcoreapp3.1\NewsDAL.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\obj\Debug\netcoreapp3.1\NewsDAL.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\obj\Debug\netcoreapp3.1\NewsDAL.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\obj\Debug\netcoreapp3.1\NewsDAL.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\obj\Debug\netcoreapp3.1\NewsDAL.dll
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsDAL\obj\Debug\netcoreapp3.1\NewsDAL.pdb

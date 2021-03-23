@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+
+    string id = ViewContext.RouteData.Values["id"].ToString();
+    string apiLink = ViewBag.NewsService + id;
+}
+<div ng-app="consumeRestApp">
+    <div ng-controller="newsCtrl">
+        <div ng-model="news">
+            <h1>{{ news.title }}</h1>
+            <img src="{{ news.mainArtUrl }}" alt="{{ news.title }}" style="max-width:500px; max-height:500px; overflow:hidden;" />
+            <p>{{ news.spot }}</p>
+            <div ng-repeat="content in news.story.contents">
+                
+                <img src='{{ content.imageUrl }}' style='max-width:500px; max-height:500px; overflow:hidden;' />
+                {{ content.text }} 
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var app = angular.module("consumeRestApp", []);
+
+    (function (app) {
+        "use strict";
+        app.controller("newsCtrl", function ($scope, $http) {
+            $http.get('@apiLink').then(function (prd) {
+                $scope.news = prd.data;
+            });
+        });
+    })(app);
+
+    function imageCheck(imageUrl) {
+        if (imageUrl != undefined) {
+            return "<img src='{{ " + imageUrl + " }}' style='max-width:500px; max-height:500px; overflow:hidden;' /> "
+        }
+        else
+            return null;
+    }
+</script>

@@ -1,0 +1,14 @@
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\bin\Debug\netcoreapp3.1\NewsServices.deps.json
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\bin\Debug\netcoreapp3.1\NewsServices.dll
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\bin\Debug\netcoreapp3.1\NewsServices.pdb
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\bin\Debug\netcoreapp3.1\NewsCore.dll
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\bin\Debug\netcoreapp3.1\NewsDAL.dll
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\bin\Debug\netcoreapp3.1\NewsCore.pdb
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\bin\Debug\netcoreapp3.1\NewsDAL.pdb
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\obj\Debug\netcoreapp3.1\NewsServices.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\obj\Debug\netcoreapp3.1\NewsServices.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\obj\Debug\netcoreapp3.1\NewsServices.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\obj\Debug\netcoreapp3.1\NewsServices.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\obj\Debug\netcoreapp3.1\NewsServices.csproj.CopyComplete
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\obj\Debug\netcoreapp3.1\NewsServices.dll
+C:\Users\Hasan\Desktop\Projeler\DYG-Case\DYG-Case\NewsServices\obj\Debug\netcoreapp3.1\NewsServices.pdb
